@@ -40,7 +40,7 @@
 <br>
 <br>
 
-## This repository contains `alx` C projects and other low level programming exercices.
+## This repository contains `My_Current_Learning`  projects and other programming exercices.
 
 ### AS A PROGRAMMER, WHAT DO YOU DO WHEN YOU GET STUCK?
 
