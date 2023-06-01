@@ -16,7 +16,7 @@
 :fountain_pen: I have a passion for Open Source</br>
 :computer: I love PC building and computer hardware</br>
 :shower: Fun fact: I take cold showers</br>
-:mailbox: How to reach me: <a href="mailto:theophilus.samy@gmail.com">theophilus.samy@gmail.com</a>  
+:mailbox: How to reach me: <a href="mailto:theophilus.samy@gmail.com">Send me a Mail</a>  
 
 
 <!--
