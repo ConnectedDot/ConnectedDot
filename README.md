@@ -4,7 +4,6 @@
 -->
 
 
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&color=%23808080&size=40&width=800&duration=6969&lines=Welcome+to+my+profile!)](https://git.io/typing-svg)
 # <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hi there, I'm Theophilus
 
@@ -13,9 +12,8 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/theophilus-mcsamue/)](https://www.linkedin.com/in/theophilus-mcsamue/)
 
 :school: Currently studying Software Engineering at ALX holberton school., Africa</br>
-:fountain_pen: I have a passion for Open Source</br>
-:computer: I love PC building and computer hardware</br>
-:shower: Fun fact: I take cold showers</br>
+:fountain_pen: I am actively for Open Source</br>
+:computer: I have great savy for tech and computer hardware</br>
 :mailbox: How to reach me: <a href="mailto:theophilus.samy@gmail.com">Send me a Mail</a>  
 
 
@@ -40,11 +38,39 @@
 <br>
 <br>
 
-## This repository contains `My_Current_Learning`  projects and other programming exercices.
 
-### AS A PROGRAMMER, WHAT DO YOU DO WHEN YOU GET STUCK?
+## About Me
 
-To help you track down that bug, start reading your code aloud. <br>
-Pretend that a programmer friend is sitting right next to you.
-Explain what your code is doing and how it works. As you talk through your code, you’ll find the problem. If you don’t, have your imaginary friend ask you questions during your explanation., 9-fizz_buzz.c, 100-prime_factor.c, 101-print_number.c Don’t worry about going mental. You’re a C programmer. You’re already mental. 😅
-As a bonus, talking through your code also helps you identify which portions need to have comments and what the comments should be.
+I am a passionate about Open Source and Professional UIs with few years of experience. I enjoy solving complex problems and building innovative solutions.
+I believe in the power of collaboration and open-source development. By sharing my projects on GitHub, I aim to contribute to the community and inspire others to learn and grow.
+
+<!--
+## Projects
+Here are some notable projects I have worked on. You can find more details and code samples in the respective repositories:
+1. [Project 1](link-to-repo): Brief description of the project and its significance.
+2. [Project 2](link-to-repo): Brief description of the project and its significance.
+3. [Project 3](link-to-repo): Brief description of the project and its significance.
+
+   
+These projects showcase my skills in [mention relevant skills/technologies used]. I have put in a lot of effort to make them well-documented, clean, and maintainable. I'm constantly learning and evolving, so you might find some interesting updates and improvements along the way.
+
+## Contributions
+I believe in the philosophy of giving back to the community. I actively contribute to open-source projects whenever possible. Some of my notable contributions include:
+
+- [Contribution 1](link-to-contribution): Description of the contribution and its impact.
+- [Contribution 2](link-to-contribution): Description of the contribution and its impact.
+- [Contribution 3](link-to-contribution): Description of the contribution and its impact.
+
+ -->
+
+
+## License
+
+Unless otherwise specified, the code and documentation in my repositories are licensed under the [MIT License](link-to-license). Feel free to use, modify, and distribute them according to the terms of the license.
+
+## Acknowledgments
+
+I would like to express my gratitude to the open-source community for their continuous support and inspiration. I've learned so much from the amazing work done by others, and I'm committed to giving back and paying it forward.
+
+Thank you for visiting my GitHub profile, and I hope you find something valuable here.
+I enjoy collaborating with others and believe that the collective effort of the community leads to remarkable achievements.
