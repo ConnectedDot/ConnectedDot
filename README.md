@@ -41,8 +41,8 @@
 
 ## About Me
 
-I am a passionate about Open Source and Professional UIs with few years of experience. I enjoy solving complex problems and building innovative solutions.
-I believe in the power of collaboration and open-source development. By sharing my projects on GitHub, I aim to contribute to the community and inspire others to learn and grow.
+Dedicated open source enthusiast with a track record of impactful contributions, Professional UXs with few years of experience. Proficient in software engineering best practices, fostering collaboration across diverse teams. Recognized for thriving under challenging circumstances, turning obstacles into opportunities for success. A forward-tracked developer and IT specialist, driven by a passion for excellence and a desire to create transformative solutions. Excited to leverage skills in pursuit of innovation and continuous improvement within a dynamic and growth-focused organization.
+
 
 <!--
 ## Projects
