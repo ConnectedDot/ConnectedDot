@@ -12,7 +12,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/theophilus-mcsamue/)](https://www.linkedin.com/in/theophilus-mcsamue/)
 
 :school: Currently studying Software Engineering at ALX holberton school., Africa</br>
-:fountain_pen: I am actively for Open Source</br>
+:fountain_pen: I am active for Open Source</br>
 :computer: I have great savy for tech and computer hardware</br>
 :mailbox: How to reach me: <a href="mailto:theophilus.samy@gmail.com">Send me a Mail</a>  
 
