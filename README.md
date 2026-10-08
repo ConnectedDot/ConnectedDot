@@ -1,37 +1,136 @@
-# 💫 About Me:
-🔭 Dedicated open source enthusiast with a track record of impactful contributions, Professional UX with few years of experience.<br>👯 Looking to collaborate on Open Source Projects that help solve complex problems (Frontend Stacks)<br>🤝 Currently working on some Minified Udemy Project for E-learning with few sufisticated functionalty.<br>🌱 I’m currently learning Myself<br>💬 Ask me about ReactJS, Typescript, Next Js, Tailwind, HTML5, CSS3, Cloud Computing and Networking, and Agile<br>⚡ Fun fact  - LIFE IS FUN<br><br>
 
+# Hey there! I'm Theophilus Samuel 👋
 
-## 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/akasonta9fe) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/TheophilusSams) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/theophilus_mcsam) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/theophilus-mcsamue) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@psalmomo) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Mc_Samuel) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/u/TopTreat1633) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/samuel-theophilus) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Mc_Samuell) 
+### Software Engineer | Open Source Team Lead | Enterprise Solutions
 
-# 💻 Tech Stack:
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=plastic&logo=ant-design&logoColor=white)  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white)
+I'm a software engineer based in Lagos, Nigeria, passionate about building reliable applications, solving meaningful engineering problems, and helping developers grow.
 
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=plastic&logo=heroku&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white)
+My experience spans **frontend engineering, backend development, mobile applications, and enterprise solutions**, with a strong foundation in **React, Next.js, TypeScript, Node.js, and SharePoint Framework (SPFx)**.
 
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) 
+Professionally, I work on enterprise application development and modernization, Microsoft 365 integrations, workflow automation, and software delivery.
 
+As an **Open Source Team Lead**, I contribute to technical planning, engineering standards, code reviews, mentoring, and collaborative problem-solving.
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ConnectedDot&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ConnectedDot&theme=gruvbox&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ConnectedDot&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ConnectedDot&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ConnectedDot&limit=5&theme=dark&combine_all_yearly_contributions=true)
+I'm continually expanding my expertise in **system design, cloud engineering, distributed systems, applied AI, and secure software architecture**.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ConnectedDot&icon=0&color=9)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/mcsamuell) 
+## 🚀 What I'm Working On
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- 🏢 **Enterprise Engineering:** Building and modernizing business applications, internal platforms, and workflow-driven solutions.
+- ⚙️ **Backend & System Design:** Developing scalable APIs, exploring architecture patterns, event-driven systems, and production-ready services.
+- ☁️ **Cloud & AI:** Exploring cloud-native development, Azure services, and practical AI integrations.
+- 👥 **Technical Leadership:** Supporting engineering teams through mentoring, code reviews, knowledge sharing, and improved development processes.
+- 🤝 **Open Source:** Learning, contributing, and collaborating on projects that solve practical problems.
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+### Languages
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white)
+
+### Frontend & Mobile
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+### Backend & Databases
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white)
+
+### Enterprise, Cloud & Developer Tools
+
+![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=flat-square&logo=microsoftsharepoint&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+### Engineering Practices
+
+`REST APIs` · `Software Architecture` · `Agile Development` · `Code Reviews` · `CI/CD` · `Technical Documentation` · `Team Collaboration`
+
+---
+
+## 🧩 Engineering Interests
+
+I'm particularly interested in how engineering teams design, build, and maintain systems beyond the initial implementation.
+
+Some areas I'm actively exploring include:
+
+- Scalable backend and distributed system architectures
+- Cloud infrastructure and deployment practices
+- Authentication, authorization, and application security
+- Enterprise AI integrations and intelligent automation
+- Engineering productivity, developer experience, and technical leadership
+
+---
+
+## 📂 Featured Projects
+
+I'm refining my public repositories to showcase practical engineering work, architectural decisions, and reusable solutions.
+
+My project interests span:
+
+- **Enterprise Applications:** Business workflows, document management, and process automation.
+- **Full-Stack Applications:** Modern interfaces connected to robust backend services.
+- **Backend Systems:** APIs, authentication, messaging, and database integration.
+- **Engineering Experiments:** System design, cloud deployments, and applied AI.
+
+Explore my repositories below as I continue documenting and improving them.
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=ConnectedDot&show_icons=true&theme=transparent&hide_border=true"
+    alt="Theophilus GitHub statistics"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ConnectedDot&layout=compact&theme=transparent&hide_border=true"
+    alt="Most used programming languages"
+  />
+</p>
+
+---
+
+## 🤝 Let's Build & Learn Together
+
+I enjoy collaborating with developers at different stages of their careers, sharing engineering knowledge, and contributing to projects that solve meaningful problems.
+
+Whether you're a **junior developer looking to learn, an engineer exploring collaboration, a technical founder building a product, or a recruiter interested in my work**, you're welcome to connect.
+
+I'm open to conversations around software engineering, enterprise solutions, backend development, technical leadership, and open-source collaboration.
+
+---
+
+## 🌐 Find Me Online
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://theophilus-sam.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/theophilus-mcsamue)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ConnectedDot)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@psalmomo)
+
+---
+
+<p align="center">
+  <i>Building thoughtfully. Learning continuously. Sharing knowledge.</i>
+</p>
